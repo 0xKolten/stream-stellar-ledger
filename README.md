@@ -10,6 +10,6 @@ Tutorial for this code can be found here: https://medium.com/@kolten/stream-ledg
 ## 🛠 How to Run 
 Run `pip install -U stellar-sdk` 
 
-Compile and run stream_stellar_ledger.py
+Compile and run stream-stellar-ledger.py
 
 
